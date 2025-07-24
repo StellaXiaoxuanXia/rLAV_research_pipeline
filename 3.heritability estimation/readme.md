@@ -73,7 +73,7 @@ ldak6 --bfile ${bfile}_QC/${bfile}_QCed \
 ### Hsq Estimation
 
 ```bash
-ldak6 --bfile test_all --mgrm mgrm.txt --reml --pheno pheno.phen --covar cov.txt --out hsq_results --constrain YES
+ldak6 --bfile test_all --mgrm mgrm.txt --reml hsq_results --pheno pheno.phen --covar cov.txt --constrain YES
 ```
 
 # 3. Group Research Pipeline
