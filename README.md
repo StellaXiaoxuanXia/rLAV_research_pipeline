@@ -1,4 +1,4 @@
-# rSV Research Pipeline
+# rLAV Research Pipeline
 
 This repository contains the pipeline for genetic data analysis, including quality control (QC), heritability estimation, cis-eQTL analysis, and risk prediction.
 
